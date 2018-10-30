@@ -71,7 +71,7 @@ var ChartView: CandleStickChartView!
         ChartView.doubleTapToZoomEnabled = false
 
         // *************************************************************************
-        // MARK: - Label
+        // MARK: - Label
 
         // Label Font & Size
         ChartView.legend.font = UIFont(name: "Futura", size:25)!
